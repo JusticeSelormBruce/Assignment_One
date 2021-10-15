@@ -4,9 +4,9 @@
   "description": "Assignment one",
   "main": "aboutus.html",
   "scripts": {
-    "start" : "npm run lite",
+    "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lite":"lite-server"
+    "lite": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/JusticeSelormBruce/Assignment_One#readme",
   "dependencies": {
-    "lite-server": "^2.6.1"
+    "bootstrap": "4.0",
+    "install": "^0.13.0",
+    "lite-server": "^2.6.1",
+    "npm": "^8.1.0"
   }
 }
